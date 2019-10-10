@@ -1,2 +1,4 @@
 testfile.txt
 *.log
+.gitignore
+Test
