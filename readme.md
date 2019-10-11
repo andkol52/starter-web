@@ -14,3 +14,5 @@ Fork the repos and rais pull request for repos
 ## GITHub Content
 Comparison with repo
 We have done work
+
+Adding new lectures.
