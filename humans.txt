@@ -6,7 +6,7 @@
     <name> Andre  <twitter>
 	KOL
 	andkol@hotmail.com
-	software enginer
+	Devops enginer
 
 # THANKS
 
@@ -16,3 +16,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Moderniz, Ajax
+    Docker java
