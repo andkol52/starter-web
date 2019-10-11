@@ -6,7 +6,8 @@ Hi , I'm modifiang file before
     <name> Andre  <twitter>
 	KOL
 	andkol@hotmail.com
-	Devops enginer
+	Devops enginer III
+	IT organisation
 
 # THANKS
 
