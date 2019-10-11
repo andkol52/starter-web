@@ -4,6 +4,9 @@
 # TEAM
 
     <name> Andre  <twitter>
+	KOL
+	andkol@hotmail.com
+	software enginer
 
 # THANKS
 
