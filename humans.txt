@@ -4,9 +4,6 @@
 # TEAM
 
     <name> Andre  <twitter>
-	KOL
-	andkol@hotmail.com
-	software inge
 
 # THANKS
 
