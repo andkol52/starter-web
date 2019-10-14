@@ -20,3 +20,4 @@ Doing some changing in local.
     HTML5, CSS3, Angular
     jQuery, Moderniz, Ajax
     Google Cloud, machine learnign
+AWS solution Architect Developper
